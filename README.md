@@ -4,7 +4,7 @@ Tools for CDT
 # Red Team
 NTDS.dit dump tool for Windows AD
 
-#Usage
+# Usage
 This tool will use an already established RDP connection to quietly dump the NTDS.dit and the registry keys needed to perform an attack
 
 1. Prerequisite: Have an established RDP Connection to the Windows AD
