@@ -5,7 +5,7 @@ Tools for CDT
 NTDS.dit dump tool for Windows AD
 
 ## NTDS.dit Stealer
-This tool will use an already established RDP connection to quietly dump the NTDS.dit and the registry keys needed to perform an attack and clear the logs. This attack will help the Red Team to obtain all Windows Domain Users password hashes. 
+This tool will use an already established RDP connection to quietly dump the NTDS.dit and the registry keys needed to perform an attack and clear the logs. This attack will help the Red Team to obtain all Windows Domain Users password hashes without manually performing an NTDS.dit dump. 
 
 ### Usage
 1. Prerequisite: Have an established RDP Connection to the Windows DC
