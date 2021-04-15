@@ -1,5 +1,5 @@
 # CDT
-Tools for CDT
+Red Team Tool for Competition Threee
 
 # Red Team
 NTDS.dit dump tool for Windows AD
